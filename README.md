@@ -1,14 +1,8 @@
-### Note
-If this reprository is useful to you in in any shape or form please give it a star.
-
-### Educational purposes only
-Don't use this project maliciously.
-
 ### Prerequisites
 1. Install [rust](https://www.rust-lang.org/tools/install)
 2. Install windows [toolchain](https://rust-lang.github.io/rustup/installation/windows.html)
 
-### Setup
+### Usage
 1. Run `cargo run --bin builder -- <file>`
 2. Run `cargo build --release --target=x86_64-pc-windows-msvc --lib`
 
