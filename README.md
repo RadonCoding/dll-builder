@@ -1,6 +1,6 @@
 ### Prerequisites
 1. Install [rust](https://www.rust-lang.org/tools/install)
-2. Install windows [toolchain](https://rust-lang.github.io/rustup/installation/windows.html)
+2. Install [windows toolchain](https://rust-lang.github.io/rustup/installation/windows.html)
 
 ### Usage
 1. Run `cargo run --bin builder -- <file>`
